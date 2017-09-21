@@ -1,0 +1,6 @@
+
+*.db
+bin
+Output
+*.db
+.vs
